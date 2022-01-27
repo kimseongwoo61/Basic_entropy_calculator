@@ -7,7 +7,7 @@ to be updated!!!
   
 # For More Information about code
 - mobile : https://blog.naver.com/pl2105
-- PC : https://icmp-ycdi.tistory.com/\n\n
+- PC : https://icmp-ycdi.tistory.com/
   
   
 good afternoon, good evening, and good night!
