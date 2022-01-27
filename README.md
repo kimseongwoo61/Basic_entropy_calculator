@@ -1,7 +1,7 @@
-# Basic_entropy_calculator - Basic malware packing analysis tool
+# Basic_entropy_calculator - malware packing analysis tool
 version : 0.1.0  
 this tool contains calculating file entropy.  
-next update version, I'll add analyzing packing method and universal unpacker in file.  
+next update version, I'll add analyzing packing method and universal unpacker in the file.  
 to be updated!!!   
   
   
