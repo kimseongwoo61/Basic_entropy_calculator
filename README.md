@@ -1,8 +1,14 @@
 # Basic_entropy_calculator - malware packing analysis tool
 version : 0.1.0  
-this tool contains calculating file entropy.  
-next update version, I'll add analyzing packing method and universal unpacker in the file.  
-to be updated!!!   
+
+- immunity&Entropy  
+In conjunction with the immunity debugger, you can calculate the entropy value of the binary during execution and visualize it as a graph.  
+Currently, memory addresses are hard-coded and unstable, so we will apply PE header information-based address range recognition and operation stabilization codes later.  
+
+- cal_entropy.py  
+If you enter a file path, it is a code that measures the frequency value of the binary and calculates entropy based on it.  
+
+to be updated!!!  
   
   
 # For More Information about code
