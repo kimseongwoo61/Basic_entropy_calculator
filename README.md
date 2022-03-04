@@ -2,15 +2,20 @@
 malware packing analysis plugin - version : 0.1.0  
   
   
-# immunity&Entropy  
-> In conjunction with the immunity debugger, you can calculate the entropy value of the binary during execution and visualize it as a graph.  
-> Currently, memory addresses are hard-coded and unstable, so we will apply PE header information-based address range recognition and operation stabilization codes later.  
+## 1. What is Basic_entropy_calculator?
+In conjunction with the immunity debugger, you can calculate the entropy value of the binary during execution and visualize it as a graph.  
+Currently, memory addresses are hard-coded and unstable, so we will apply PE header information-based address range recognition and operation stabilization codes later.  
 
-# HOW TO USE!!!
-1. Download the uploaded file.
+## 2. HOW TO USE!!!
+### 1) Download the uploaded file. 
 <pre><code>
 git clone https://github.com/kimseongwoo61/Basic_entropy_calculator.git
-</code></pre>
+#If you didn't install immunity, please install it.
+#immunity install link : https://www.immunityinc.com/products/debugger/
+</code></pre>  
+
+  
+### 2) copy checkep.py file to immunity debugger  
 
 
 
